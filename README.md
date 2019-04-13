@@ -117,8 +117,7 @@ Example:
 - EXE or DLL Supported.
 - All executions with SYSTEM privileges.
 
-
-
+How it Works: http://g.recordit.co/vGfTqrddJu.gif
 
 
 https://hackforums.net/showthread.php?tid=5759816
